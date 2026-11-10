@@ -1,0 +1,6 @@
+{
+  "name": "QuickClip - Bento Notes & Instant Copy",
+  "description": "Ultra-fast snippet and note clipboard manager with spotlight bento grid, sliding view toggle, and AI writing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
